@@ -1,11 +1,12 @@
-<h1>                 OV</h1>
+<h1 align="center">OV</h1>
 
-<img width="276" alt="LOGO" src="https://github.com/user-attachments/assets/8d3ecfa1-2041-4473-9252-f993c429e22e">
+<p align="center">
+  <img width="276" alt="LOGO" src="https://github.com/user-attachments/assets/8d3ecfa1-2041-4473-9252-f993c429e22e">
+</p>
 
+<h1 align="center">OnlyVibes</h1>
 
-# OnlyVibes 
-
-OnlyVibes is an interactive music-sharing platform where users can submit their favorite tracks from various sources and share them with the community. Experience music like never before with OnlyVibes!
+<p align="center">OnlyVibes is an interactive music-sharing platform where users can submit their favorite tracks from various sources and share them with the community. Experience music like never before with OnlyVibes!</p>
 
 ## Features ✨
 
