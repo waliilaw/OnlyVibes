@@ -6,20 +6,34 @@
 
 <h1 align="center">OnlyVibes</h1>
 
-<p align="center">OnlyVibes is an interactive music-sharing platform where users can submit their favorite tracks from various sources and share them with the community. Experience music like never before with OnlyVibes!</p>
+<p align="center">Welcome, OnlyVibes a music-sharing platform!</p>
 
 ## Features ✨
 
-- **Submit Music Links:** Users can submit music links from YouTube, Spotify, Apple Music, and YouTube Music.
-- **Vote for Tracks:** Community members can vote for their favorite tracks, helping highlight the most popular selections.
-- **Play Selected Clips:** Users can choose specific start times for music playback, allowing them to share just the right moments.
-- **Responsive Design:** Enjoy a seamless experience across devices, whether you're on a desktop or mobile.
-- **Music Playback:** Listen to clips directly within the app, with controlled playback duration.
-- **User-Friendly Interface:** Simple and intuitive design to enhance user experience.
-- **Modal Prompts:** Engaging modals guide users through the process of selecting music and start times.
+- **Submit Music Links:** Share your epic tracks, just like your favorite characters!
+- **Vote for Tracks:** Help your friends by voting—let’s create a legendary playlist!
+- **User-Friendly Interface:** So simple, even your senpai could use it!
 
 ## Installation 
 
 1. Navigate to the project directory:
    ```bash
    cd path/to/your/onlyvibes
+   ```
+2. Install Dependencies 
+   ```bash
+   npm install
+   ```
+3. Start The Amazing Server 
+   ```bash
+   npm run dev
+   ```
+
+
+## Contributing 🌸
+
+**Join the crew, share your ideas, and let’s vibe together! Just like a true anime team, we welcome all!
+
+**Thank you for joining OnlyVibes, where music and magic collide! 🎵✨
+
+   
