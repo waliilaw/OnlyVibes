@@ -34,6 +34,6 @@
 
 **Join the crew, share your ideas, and let’s vibe together! Just like a true anime team, we welcome all!**
 
-**Thank you for joining OnlyVibes, where music and magic collide!** 🎵✨
+**Thank you for joining OnlyVibes, where music and magic collide!** 
 
    
